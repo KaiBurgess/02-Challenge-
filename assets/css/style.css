@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/*I changed the .header to header and took out the dic element so that it corilates to my HTML*/
+/*I changed the .header to header and took out the div element so that it corilates to my HTML*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -75,7 +75,7 @@ main {
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
